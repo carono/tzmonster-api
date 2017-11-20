@@ -15,6 +15,6 @@
     }
   },
   "require": {
-    "carono/rest-client": "^0.1.9"
+    "carono/rest-client": "@stable"
   }
 }
