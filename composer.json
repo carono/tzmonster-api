@@ -1,0 +1,20 @@
+{
+  "name": "carono/tzmonster",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aleksandr Kasyanov",
+      "email": "info@carono.ru",
+      "homepage": "http://carono.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "carono\\tzmonster\\": "src"
+    }
+  },
+  "require": {
+    "carono/rest-client": "^0.1.9"
+  }
+}
